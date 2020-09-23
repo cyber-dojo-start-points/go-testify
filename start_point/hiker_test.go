@@ -6,5 +6,5 @@ import (
 )
 
 func Test_life_the_universe_and_everything(t *testing.T) {
-    assert.Equal(t, answer(), 42)
+    assert.Equal(t, 42, answer())
 }
