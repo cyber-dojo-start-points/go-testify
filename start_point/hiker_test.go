@@ -2,7 +2,7 @@ package hiker
 
 import (
     "testing"
-    _ "github.com/stretchr/testify/assert"
+    "github.com/stretchr/testify/assert"
 )
 
 func Test_life_the_universe_and_everything(t *testing.T) {
