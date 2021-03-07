@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/go_testify:78da523",
+  "image_name": "cyberdojofoundation/go_testify:d5b224c",
   "display_name": "Go, testify",
   "visible_filenames": [
     "hiker_test.go",
