@@ -9,6 +9,6 @@
   "filename_extension": [
     ".go"
   ],
-  "max_seconds": 15,
+  "max_seconds": 20,
   "tab_size": 4
 }
