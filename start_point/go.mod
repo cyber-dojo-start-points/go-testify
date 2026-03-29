@@ -1,4 +1,4 @@
-module cdl-go-testify
+module cyber-dojo-go-testify
 
 go 1.26.1
 
