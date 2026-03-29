@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/go-testify.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/go-testify)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
-### display_name="Go 1.18, testify"
-### image_name="[cyberdojofoundation/go_testify](https://hub.docker.com/repository/docker/cyberdojofoundation/go_testify)"
+### display_name="Go 1.26.1, testify"
+### image_name=[ghcr.io/cyber-dojo-languages/go_testify](https://ghcr.io/cyber-dojo-languages/go_testify)
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)

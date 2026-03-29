@@ -1,13 +1,17 @@
 {
-  "image_name": "cyberdojofoundation/go_testify:3f62bba",
-  "display_name": "Go 1.18, testify",
+  "display_name": "Go 1.26.1, testify 1.11.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_testify:8cfca73",
   "visible_filenames": [
     "hiker_test.go",
     "hiker.go",
+    "go.mod",
+    "go.sum",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".go"
+    
   ],
   "max_seconds": 20,
   "tab_size": 4
