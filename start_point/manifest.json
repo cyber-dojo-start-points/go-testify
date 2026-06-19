@@ -1,5 +1,13 @@
 {
   "display_name": "Go 1.26.1, testify 1.11.1",
+  "language": [
+    "Go",
+    "1.26.1"
+  ],
+  "test_framework": [
+    "testify",
+    "1.11.1"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/go_testify:8cfca73",
   "visible_filenames": [
     "hiker_test.go",
