@@ -8,7 +8,7 @@
     "testify",
     "1.11.1"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/go_testify:8cfca73",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_testify:9f25ac9",
   "visible_filenames": [
     "hiker_test.go",
     "hiker.go",
