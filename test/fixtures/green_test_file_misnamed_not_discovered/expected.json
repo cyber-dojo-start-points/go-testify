@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 6,
+  "match_counts": {
+    "^PASS$": 1,
+    "^ok[[:space:]]+cyber-dojo-go-testify": 1,
+    "three_digits": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^--- FAIL: ": 2,
+    "^--- FAIL: Test_life_the_universe_and_everything ": 1,
+    "^--- FAIL: Test_the_checksum_of_the_answer ": 1,
+    "Error Trace:[[:space:]]+.*hiker_test\\.go:[0-9]+$": 1,
+    "^panic: runtime error: integer divide by zero": 1,
+    "^exit status 2$": 1
+  }
+}

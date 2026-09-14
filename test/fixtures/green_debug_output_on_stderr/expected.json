@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 9,
+  "matches": [ "^answer was called$" ],
+  "match_counts": {
+    "^answer was called$": 1,
+    "^PASS$": 1,
+    "^ok[[:space:]]+cyber-dojo-go-testify": 1
+  }
+}
