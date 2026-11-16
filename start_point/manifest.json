@@ -1,14 +1,14 @@
 {
-  "display_name": "Go 1.27.3, testify 1.12.1",
+  "display_name": "Go 1.27.4, testify 1.12.1",
   "language": [
     "Go",
-    "1.27.3"
+    "1.27.4"
   ],
   "test_framework": [
     "testify",
     "1.12.1"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/go_testify:c18b5bb@sha256:a43828e17468d0cf0349aa38ec0334a40eff2ec93c0b8a23543e97e94f9b8d1b",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_testify:45f9132@sha256:8bb4f7d18e801fcfd41e2978a8b44bd60b11b5c06086f793b2c5449572772f1f",
   "visible_filenames": [
     "hiker_test.go",
     "hiker.go",
